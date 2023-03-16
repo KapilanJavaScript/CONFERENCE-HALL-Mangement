@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "1234gvhbjnk",
+      "name": "kapilan",
+      "employee_id": "STS000",
+      "location": "coimbatore",
+      "email_id": "kapi@gmail.com",
+      "password": 123
+    },
+    {
+      "id": "2234gvhbjnk",
+      "name": "harishankar",
+      "employee_id": "STS500",
+      "location": "coimbatore",
+      "email_id": "harishankar@gmail.com",
+      "password": 123
+    },
+    {
+      "id": "3234gvhbjnk",
+      "name": "Nikil",
+      "employee_id": "STS465",
+      "location": "chennai",
+      "email_id": "nikil@gmail.com",
+      "password": 123
+    },
+    {
+      "id": "4234gvhbjnk",
+      "name": "vijay",
+      "employee_id": "STS888",
+      "location": "coimbatore",
+      "email_id": "vijay@gmail.com",
+      "password": 123
+    },
+    {
+      "id": "5234gvhbjnk",
+      "name": "john",
+      "employee_id": "STS443",
+      "location": "coimbatore",
+      "email_id": "john@gmail.com",
+      "password": 123
+    },
+    {
+      "id": "6234gvhbjnk",
+      "name": "bharath",
+      "employee_id": "STS011",
+      "location": "coimbatore",
+      "email_id": "bharath@gmail.com",
+      "password": 123
+    }
+  ],
+  "admin": [
+    {
+      "id": "1234gvhbjnk",
+      "name": "kapilan",
+      "employee_id": "STS000",
+      "location": "coimbatore",
+      "email_id": "kapi@gmail.com",
+      "password": 123
+    },
+    {
+      "id": "2234gvhbjnk",
+      "name": "harishankar",
+      "employee_id": "STS500",
+      "location": "coimbatore",
+      "email_id": "harishankar@gmail.com",
+      "password": 123
+    }
+  ]
+}

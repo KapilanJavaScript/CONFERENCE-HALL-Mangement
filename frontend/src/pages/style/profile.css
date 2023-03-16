@@ -1,0 +1,8 @@
+.main {
+    background-color: var(--bs-back);
+    border-color: var(--bs-back);
+  }
+  
+.body{
+    background-color: var(--bs-back);
+}
